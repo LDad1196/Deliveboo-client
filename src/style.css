@@ -1,0 +1,47 @@
+/* dark-orange (principale):
+Pulsanti di chiamata all'azione, icone e elementi che necessitano di risalto.
+
+light-orange:
+Sfondi di sezioni o hover sugli elementi interattivi.
+
+oak:
+Testi di dettagli minori.
+
+black:
+Usalo per il testo principale e il contenuto.
+
+light-grey:
+Utilizzato come colore di sfondo o per testi secondari.
+
+white:
+Sondi e spazi vuoti, per dare respiro alla pagina.
+
+Consigli di utilizzo:
+Sfondo: Usa un grigio molto chiaro o bianco per mantenere leggibilità e contrasto con il testo.
+Testi: Utilizza il nero o il marrone scuro per il testo principale.
+Elementi di risalto: Usa l'arancione scuro o l'arancione chiaro per i pulsanti e gli altri elementi interattivi.
+ */
+
+.dark-orange {
+  background-color: #D35400;
+}
+
+.light-orange {
+  background-color: #E67E22;
+}
+
+.oak {
+  color: #8C4D00;
+}
+
+.black {
+  color: #2C3E50;
+}
+
+.light-grey {
+  background-color: #BDC3C7;
+}
+
+.white {
+  background-color: #FFFFFF;
+}
