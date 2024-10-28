@@ -87,14 +87,10 @@ export default {
 <template>
   <div class="text-center cont-main">
 
-    <!-- JUMBO -->
-    <div class="jumbo">
-      <video src="/src/assets/video-jumbo-1.mp4" muted="" loop="" autoplay="" type="video/mp4" class="w-100"></video>
-    </div>
-
     <div class="container">
       <div class="row justify-content-center align-items-center">
         <div class="col-12 col-md-8 col-lg-6 mt-4">
+          <img src="/public/logo-deliveboo-no-scritta.png" alt="logo" class="img-fluid">
           <h1 class="mb-3">Benvenuto su Deliveboo</h1>
           <h3 class="mb-4">Il sapore che ti raggiunge</h3>
         </div>
